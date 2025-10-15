@@ -39,6 +39,7 @@ bool SpellChecker(int pCategory , string pString) {
 
 void Initials(string pName, string pSurname) {
 	cout << "Imie: " << pName << ", Nazwisko: " << pSurname << "\nInicjaly: " << pName[0] <<pSurname[0] << endl;
+	// printf("Imie: %s, Nazwisko: %s\nInicjaly: %c%c\n", pName.c_str(), pSurname.c_str(), pName[0], pSurname[0]);
 }
 
 /* This is Patric the Star
@@ -112,9 +113,11 @@ void Star() {
 			}
 			if (starToPrint) {
 				cout << "*";
+				//printf("*");
 			}
 			else {
 				cout << " ";
+				//printf(" ");
 			}
         }
         cout << endl;
@@ -123,30 +126,38 @@ void Star() {
 
 void PresenceList(int recordsNumber, int pNr[], string pNames[], string pSurnames[]) {
 	cout << "+---------------- Lista obecnosci ----------------+\n";
+	//printf("+---------------- Lista obecnosci ----------------+\n");
 	cout << "NR\tImie\tNazwisko" << endl;
+	//printf("NR\tImie\tNazwisko\n");
 	for (int i = 0; i < recordsNumber; i++) {
 		cout << pNr[i] << "\t" << pNames[i] << "\t" << pSurnames[i] << endl;
+		//printf("%d\t%s\t%s\n", pNr[i], pNames[i].c_str(), pSurnames[i].c_str());
 	}
 	cout << "+-------------------------------------------------+\n";
+	//printf("+-------------------------------------------------+\n");
 }
 
-int Addition(int a, int b) {
+float Addition(float a, float b) {
 	return a + b;
 }
 
-int Multiplication(int a, int b) {
+float Multiplication(float a, float b) {
 	return a * b;
 }
 
-void SimpleCalculus(int a, int b) {
+void SimpleCalculus(float a, float b) {
 	cout << "Operacje na liczbach: " << a << " i " << b << endl;
+	//printf("Operacje na liczbach: %f i %f\n", a, b);
 	cout << "Dodawanie: " << Addition(a, b) << endl;
+	//printf("Dodawanie: %f\n", Addition(a, b));
 	cout << "Mnozenie: " << Multiplication(a, b) << endl;
+	//printf("Mnozenie: %f\n", Multiplication(a, b));
 }
 
 void TemperatureConversion(float pFahrenheit) {
 	float celsius = (pFahrenheit - 32) * 5.0 / 9.0;
 	cout << pFahrenheit << " stopni Fahrenheita to:\n " << celsius << " stopni Celsjusza.\n" << (celsius+273.15) << " stopni Kelvina\n" << endl;
+	//printf("%f stopni Fahrenheita to:\n %f stopni Celsjusza.\n %f stopni Kelvina\n", pFahrenheit, celsius, (celsius+273.15));
 }
 
 int main(){
@@ -155,14 +166,19 @@ int main(){
 	string name, surname;
 	while (1) {
 		cout << "Podaj imie: ";
+		//printf("Podaj imie: ");
 		cin >> name;
+		//scanf("%s", name);
 		cout << "Podaj nazwisko: ";
+		//printf("Podaj nazwisko: ");
 		cin >> surname;
+		//scanf("%s", surname);
 		if (SpellChecker(1, name) and SpellChecker(1, surname)) {
 			break;
 		}
 		else {
 			cout << "Cosik mi tu szpacisz drogi Panie kolego. \nImiona zwykle nie maja cyferek i znaczkow! \nA nie sadze ze jestes z rodziny krolewskiej. \nSproboj jeszcze raz!" << endl;
+			//printf("Cosik mi tu szpacisz drogi Panie kolego. \nImiona zwykle nie maja cyferek i znaczkow! \nA nie sadze ze jestes z rodziny krolewskiej. \nSproboj jeszcze raz!\n");
 		}
 	}
 	Initials(name, surname);
@@ -185,9 +201,13 @@ int main(){
 	string tmpString1, tmpString2;
 	while(1){
 		cout << "\nPodaj Liczbe A: ";
+		//printf("\nPodaj Liczbe A: ");
 		cin >> tmpString1;
-		cout << "\nPodaj Liczbe A:";
+		//scanf("%s", tmpString1);
+		cout << "\nPodaj Liczbe B:";
+		//printf("\nPodaj Liczbe B:");
 		cin >> tmpString2;
+		//scanf("%s", tmpString2);
 		if(SpellChecker(2, tmpString1) and SpellChecker(2, tmpString2)){
 			a = stoi(tmpString1);
 			b = stoi(tmpString2);
@@ -195,6 +215,7 @@ int main(){
 		}
 		else{
 			cout << "Wyczuwam tutaj lekki szwindel. \nLiczby nie maja liter i znaczkow! \nSproboj jeszcze raz!" << endl;
+			//printf("Wyczuwam tutaj lekki szwindel. \nLiczby nie maja liter i znaczkow! \nSproboj jeszcze raz!\n");
 		}
 	}
 	SimpleCalculus(a, b);
@@ -204,13 +225,16 @@ int main(){
 	float tmpFahrenheit;
 	while (1) {
 		cout << "\nPodaj temperature w stopniach Fahrenheita: ";
+		//printf("\nPodaj temperature w stopniach Fahrenheita: ");
 		cin >> tmpString1;
+		//scanf("%s", tmpString1);
 		if (SpellChecker(3, tmpString1)) {
 			tmpFahrenheit = stof(tmpString1);
 			break;
 		}
 		else {
 			cout << "No i znow to przerabiamy kurcze ten. \nLiczby nie maja liter i znaczkow (Oprocz +/-)! \nSproboj jeszcze raz!" << endl;
+			//printf("No i znow to przerabiamy kurcze ten. \nLiczby nie maja liter i znaczkow (Oprocz +/-)! \nSproboj jeszcze raz!\n");
 		}
 	}
 	TemperatureConversion(tmpFahrenheit);
