@@ -1,0 +1,4 @@
+﻿  Zadania-01.cpp
+C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-01\Zadania-01\Zadania-01.cpp(148,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-01\Zadania-01\Zadania-01.cpp(38,1): warning C4715: "SpellChecker”: niewszystkie ścieżki kodu zwracają wartość
+  Zadania-01.vcxproj -> C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-01\ARM64\Debug\Zadania-01.exe
