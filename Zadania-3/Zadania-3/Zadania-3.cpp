@@ -226,8 +226,8 @@ void Excerices8() {
     cout << "\nZadanie 1";
     while (1) {
         cout << "\nPodaj dodatnia liczbe naturalna N: "; cin >> tmpString1;
-        if (!CheckTheSpelling(2, tmpString1) && stoi(tmpString1)>0) {
-            cout << "Cos nie dziala. Podaj liczbe naturalna i wieksza od 0!\n";
+        if (!CheckTheSpelling(1, tmpString1) && stoi(tmpString1)>0) {
+            cout << "Cos nie dziala. Podaj liczbe naturalna!\n";
         }
         break;
     }
