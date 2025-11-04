@@ -1,3 +1,3 @@
 ﻿  GigaMegaProject.cpp
-C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\GigaMegaProject\GigaMegaProject.cpp(30,1): warning C4715: "checkSpelling”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\GigaMegaProject\headerFile.h(35,1): warning C4715: "checkSpelling”: niewszystkie ścieżki kodu zwracają wartość
   GigaMegaProject.vcxproj -> C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\ARM64\Debug\GigaMegaProject.exe

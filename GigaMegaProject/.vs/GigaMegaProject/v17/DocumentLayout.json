@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A840374D-051B-4898-901F-1B2F989C8325}|GigaMegaProject\\GigaMegaProject.vcxproj|C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\GigaMegaProject\\headerFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A840374D-051B-4898-901F-1B2F989C8325}|GigaMegaProject\\GigaMegaProject.vcxproj|solutionrelative:GigaMegaProject\\headerFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A840374D-051B-4898-901F-1B2F989C8325}|GigaMegaProject\\GigaMegaProject.vcxproj|C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\GigaMegaProject\\GigaMegaProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A840374D-051B-4898-901F-1B2F989C8325}|GigaMegaProject\\GigaMegaProject.vcxproj|solutionrelative:GigaMegaProject\\GigaMegaProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "headerFile.h",
+              "DocumentMoniker": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\GigaMegaProject\\headerFile.h",
+              "RelativeDocumentMoniker": "GigaMegaProject\\headerFile.h",
+              "ToolTip": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\GigaMegaProject\\headerFile.h",
+              "RelativeToolTip": "GigaMegaProject\\headerFile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T15:25:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GigaMegaProject.cpp",
+              "DocumentMoniker": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\GigaMegaProject\\GigaMegaProject.cpp",
+              "RelativeDocumentMoniker": "GigaMegaProject\\GigaMegaProject.cpp",
+              "ToolTip": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\GigaMegaProject\\GigaMegaProject\\GigaMegaProject.cpp",
+              "RelativeToolTip": "GigaMegaProject\\GigaMegaProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T14:57:07.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "__msvc_string_view.hpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\__msvc_string_view.hpp",
+              "ViewState": "AgIAALkBAAAAAAAAAIAwwMoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T15:15:13.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
