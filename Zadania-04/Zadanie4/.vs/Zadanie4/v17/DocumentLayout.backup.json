@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-04\\Zadanie4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5308ADEA-5447-45D0-9ECE-9F962C422C40}|Zadanie4\\Zadanie4.vcxproj|C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-04\\Zadanie4\\Zadanie4\\Zadanie4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5308ADEA-5447-45D0-9ECE-9F962C422C40}|Zadanie4\\Zadanie4.vcxproj|solutionrelative:Zadanie4\\Zadanie4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie4.cpp",
+              "DocumentMoniker": "C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-04\\Zadanie4\\Zadanie4\\Zadanie4.cpp",
+              "RelativeDocumentMoniker": "Zadanie4\\Zadanie4.cpp",
+              "ToolTip": "C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-04\\Zadanie4\\Zadanie4\\Zadanie4.cpp",
+              "RelativeToolTip": "Zadanie4\\Zadanie4.cpp",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAIwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T14:13:10.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

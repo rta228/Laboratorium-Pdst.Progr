@@ -1,0 +1,5 @@
+﻿  Zadanie4.cpp
+C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-04\Zadanie4\Zadanie4\Zadanie4.cpp(158,21): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-04\Zadanie4\Zadanie4\Zadanie4.cpp(339,23): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-04\Zadanie4\Zadanie4\Zadanie4.cpp(352,20): warning C4244: "return": konwersja z "float" do "int", możliwa utrata danych
+  Zadanie4.vcxproj -> C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-04\Zadanie4\ARM64\Debug\Zadanie4.exe
