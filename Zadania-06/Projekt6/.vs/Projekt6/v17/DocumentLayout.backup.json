@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-06\\Projekt6\\",
+  "WorkspaceRootPath": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\Zadania-06\\Projekt6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6DB3FD-E9EA-49B9-8A70-ED0CAAA47351}|Projekt6\\Projekt6.vcxproj|C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-06\\Projekt6\\Projekt6\\Projekt6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AB6DB3FD-E9EA-49B9-8A70-ED0CAAA47351}|Projekt6\\Projekt6.vcxproj|C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\Zadania-06\\Projekt6\\Projekt6\\Projekt6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB6DB3FD-E9EA-49B9-8A70-ED0CAAA47351}|Projekt6\\Projekt6.vcxproj|solutionrelative:Projekt6\\Projekt6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Projekt6.cpp",
-              "DocumentMoniker": "C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-06\\Projekt6\\Projekt6\\Projekt6.cpp",
+              "DocumentMoniker": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\Zadania-06\\Projekt6\\Projekt6\\Projekt6.cpp",
               "RelativeDocumentMoniker": "Projekt6\\Projekt6.cpp",
-              "ToolTip": "C:\\Users\\waler\\Desktop\\University\\Laby - Pdst Programowania\\Zadania-06\\Projekt6\\Projekt6\\Projekt6.cpp",
+              "ToolTip": "C:\\Users\\waler\\Documents\\GitHub\\Laboratorium-Pdst.Progr\\Zadania-06\\Projekt6\\Projekt6\\Projekt6.cpp",
               "RelativeToolTip": "Projekt6\\Projekt6.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwGsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-18T14:25:34.934Z",
               "EditorCaption": ""

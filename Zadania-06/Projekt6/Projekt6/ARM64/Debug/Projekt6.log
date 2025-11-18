@@ -1,2 +1,3 @@
 ﻿  Projekt6.cpp
-  Projekt6.vcxproj -> C:\Users\waler\Desktop\University\Laby - Pdst Programowania\Zadania-06\Projekt6\ARM64\Debug\Projekt6.exe
+C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\Zadania-06\Projekt6\Projekt6\Projekt6.cpp(94,22): warning C4244: "return": konwersja z "double" do "float", możliwa utrata danych
+  Projekt6.vcxproj -> C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\Zadania-06\Projekt6\ARM64\Debug\Projekt6.exe
