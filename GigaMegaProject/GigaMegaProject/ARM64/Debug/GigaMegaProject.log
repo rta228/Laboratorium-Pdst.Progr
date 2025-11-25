@@ -1,3 +1,6 @@
 ﻿  GigaMegaProject.cpp
-C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\GigaMegaProject\headerFile.h(35,1): warning C4715: "checkSpelling”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\GigaMegaProject\headerFile.h(334,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „GigaMegaProject.cpp”)
+  
+C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\GigaMegaProject\headerFile.h(50,1): warning C4715: "checkSpelling”: niewszystkie ścieżki kodu zwracają wartość
   GigaMegaProject.vcxproj -> C:\Users\waler\Documents\GitHub\Laboratorium-Pdst.Progr\GigaMegaProject\ARM64\Debug\GigaMegaProject.exe
