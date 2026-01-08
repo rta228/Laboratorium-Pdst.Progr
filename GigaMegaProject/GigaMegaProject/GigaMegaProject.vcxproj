@@ -177,6 +177,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GigaMegaProject.cpp" />
+    <ClCompile Include="headerFile.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerFile.h" />
